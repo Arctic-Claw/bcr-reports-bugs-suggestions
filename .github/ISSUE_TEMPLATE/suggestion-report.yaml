@@ -10,8 +10,8 @@ body:
       label: Which service do you want to suggest for?
       multiple: false
       options:
-        - Roblox
-        - Discord
+        - ◾️ Roblox
+        - 🤖 Discord
     validations:
       required: true
   - type: textarea
