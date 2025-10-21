@@ -1,4 +1,4 @@
-name: Internal Bug Report
+name: 👾 Internal Bug Report
 description: File an internal bug report.
 title: "[Bug]: "
 labels: ["bug"]
@@ -10,9 +10,9 @@ body:
       label: Which service does the bug relate to?
       multiple: false
       options:
-        - Roblox Studio
-        - Discord Bots
-        - Discord Channel Access
+        - ◾️ Roblox Studio
+        - 🤖 Discord Bots
+        - 🗃️ Discord Channel Access
     validations:
       required: true
   - type: dropdown
