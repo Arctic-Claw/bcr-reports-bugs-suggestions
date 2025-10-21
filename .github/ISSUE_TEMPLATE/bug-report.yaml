@@ -13,8 +13,8 @@ body:
         - Bug
         - Feature Request
         - Improvement
-  validations:
-    required: true
+    validations:
+      required: true
   - type: dropdown
     id: service
     attributes:
