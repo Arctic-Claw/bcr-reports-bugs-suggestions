@@ -2,6 +2,7 @@ name: 👾 Internal Bug Report
 description: File an internal bug report.
 title: "[Bug]: "
 labels: ["bug"]
+issue type: ["Bug"]
 projects: ["Roblox"]
 body:
   - type: dropdown
