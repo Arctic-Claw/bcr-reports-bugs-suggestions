@@ -5,17 +5,6 @@ labels: ["bug"]
 projects: ["Roblox"]
 body:
   - type: dropdown
-    id: issue_type
-    attributes:
-      label: Issue Type
-      multiple: false
-      options:
-        - Bug
-        - Feature Request
-        - Improvement
-    validations:
-      required: true
-  - type: dropdown
     id: service
     attributes:
       label: Which service does the bug relate to?
