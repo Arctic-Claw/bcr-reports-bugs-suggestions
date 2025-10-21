@@ -10,7 +10,6 @@ body:
       label: Issue Type
       multiple: true
       options:
-        - Bug
         - Feature Request
         - Improvement
     validations:
