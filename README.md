@@ -4,8 +4,8 @@ Welcome to Brayford City's GitHub Respository!
 
 **✅ What You Can Do Here**
 > You can open an Issue for the following:
-- 🐛 Bug Report --- Report server issues, broken features, or technical problems
-- 💡 Suggestion/Feature Request --- Submit ideas, improvements, or new feature proposals
+- 👾 Bug Report --- Report server issues, broken features, or technical problems
+- 💡 Suggestion --- Submit ideas, improvements, or new feature proposals
 - ❓ Question / Support --- Ask for help, request clarification, or get support
 > Each issue will be reviewed by staff, discussed if needed, and then approved, rejected, or scheduled for future development.
 
