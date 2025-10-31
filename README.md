@@ -1,6 +1,6 @@
 # BCR GitHub | Reports (Bugs + Suggestions + Questions)
 Welcome to Brayford City's GitHub Respository! 
-> This is where you report bugs so that we are able to fix them as fast as possible. As well as suggesting things that could be used later in the future. This space is dedicated to improving our [Brayford City Roleplay Discord Server](https://discord.gg/AJ3Ksxg3gS) by collecting community-driven feedback and tracking changes. Whether you’re staff, a guest, or community member, your voice helps shape the future of our server.
+> This is where you report bugs so that we are able to fix them as fast as possible. As well as suggesting things that could be used later in the future. This space is dedicated to improving our [Brayford City Roleplay Discord Server](https://discord.gg/AJ3Ksxg3gS) by collecting community-driven feedback and tracking changes. Whether you’re staff, a guest, or community member, your voice helps shape the future of our server. Please remember to check our [Repository Conduct and Issues Guidelines](https://github.com/Arctic-Claw/bcr-reports-bugs-suggestions/discussions/12#discussion-9093843)
 
 **✅ What You Can Do Here**
 > You can open an Issue for the following:
